@@ -1,0 +1,29 @@
+/* Reset CSS */
+/* ... (existing reset styles) ... */
+
+/* Main Page (Background Image) */
+.main-page {
+    background-image: url('images/image.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Adjust as needed */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Interactive Image Areas */
+.interactive-image {
+    width: 100px;
+    height: 100px;
+    /* Add background images for each area */
+    /* Example: background-image: url('path/to/buy-tag-icon.png'); */
+    /* Add other styling (borders, hover effects) */
+}
+
+/* Other Styles (text, buttons, etc.) */
+h1, p {
+    color: white;
+    text-align: center;
+}
