@@ -3,7 +3,7 @@
 
 /* Main Page (Background Image) */
 .main-page {
-    background-image: url('images/image.jpg');
+    background-image: url('images/images.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh; /* Adjust as needed */
